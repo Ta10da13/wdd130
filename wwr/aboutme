@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="This is the home page of Gerald Tatenda Nyamangwende. The purpose of this page is to give a brief description of who I am and where come from. This will include some of my interests and hobbies.">
+    <meta name="author" content="Gerald Tatenda Nyamangwende">
+    <title>All About Me | WDD 130</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <img alt="image of me?" src="/images/gerald.jpeg" >
+    <h2>Gerald Tatenda Nyamangwende</h2>
+    <h2>Gerry</h2>
+    <p>How are you all, let me introduce myself. My name is Gerald Tatenda Nyamangwende i am married to my beautiful wife Thembelihle Ncube and we a gorgeous 2 year old daughter. i am from Zimbabwe, Africa, here we have different kind
+        of temperatures as seasons change in every 4 to 5 months.</p>
+        <p>Currently i am working as a Branch Manager at Africa Bet, a sports betting company in Zimbabwe and i love technology to an extent of making it a carreer, i love playing around a computer especially learning new things from it
+            as well as coding. i enjoy doing a lot of things with a computer that includes playing video games as well as travelling. i welcome getting to know all of my classmates</p>
+            <p>Thank you for looking at my Web Page</p>
+    
+</body>
+</html>
