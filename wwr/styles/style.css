@@ -45,11 +45,13 @@ body {
     font-weight: bolder;
     color: #000000;
     }
+
     .hero-box {
     text-align : center;
     margin : 0 auto;
     max-width : 1600px;
     }
+    
     .button-box {
     text-align : center;
     }
