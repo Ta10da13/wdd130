@@ -1,0 +1,97 @@
+body {
+    background-color : #e9dbdb;
+    }
+    header {
+    background-color : rgb(20, 30, 13, 0.7);
+    }
+    header {
+    display : flex;
+    flex-direction : column;
+    align-items : center;
+    }
+    header {
+    display : flex;
+    align-items : baseline;
+    }
+    .logo img {
+    height : 50px;
+    width : 80px;
+    }
+    nav ul {
+    display : flex;
+    list-style : none;
+    margin : 0;
+    padding : 0;
+    }
+    #Lets make the max-width {
+    max-width : 1600px;
+    margin : 0 auto;
+    text-align : center;
+    }
+    #hero-img {
+        width: 100%;
+    }
+#content {
+    width : 80%;
+    margin : 0 auto;
+    max-width : 1600px;
+    margin-top : 0;
+    margin-bottom : 0;
+    margin-left : auto;
+    margin-right : auto;
+    }
+    #hero-msg h1, #hero-msg h4 {
+    text-align : center;
+    font-weight: bolder;
+    color: #000000;
+    }
+
+    .hero-box {
+    text-align : center;
+    margin : 0 auto;
+    max-width : 1600px;
+    }
+
+    .button-box {
+    text-align : center;
+    }
+    
+main section {
+    text-align : center;
+    }
+    div {
+    margin : 0 auto;
+    }
+    
+    #background {
+    height : 725px;
+    }
+    .icon {
+    width : 80px;
+    }
+    nav a {
+    text-align : center;
+    color : #ffffff;
+    text-decoration : none;
+    }
+#body {
+    max-width : 1600px;
+    margin : 0 auto;
+    text-align : center;
+    }
+#footer p a:hover {
+    text-decoration : underline;
+    }
+footer {
+    background-color : rgb(20, 30, 13, 0.7);
+    }
+#contact {
+    display : flex;
+    align-items : start;
+    justify-content : flex-end;
+    }
+#contact-icons {
+    display : flex;
+    justify-content : flex-end;
+    text-align : left;
+    }
