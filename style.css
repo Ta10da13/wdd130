@@ -71,6 +71,11 @@ body {
         background-color: #6f7364;
         line-height: 1.5em;
     }   
+    .hero-box {
+     text-align : center;
+     margin : 0 auto;
+     max-width : 1600px;
+    }
     .button-box {
     text-align : center;
     }
@@ -81,7 +86,33 @@ main section {
     div {
     margin : 0 auto;
     }
-    
+    .rivers-card {
+        margin: 200px 0;
+    }
+    .camping-card {
+        margin: 200px 0;
+    }
+    .rapids-card {
+        margin: 200px 0;
+    }
+
+    .book, .join {
+        background-color: #e6c69d;
+        color: rgb(0, 0, 0);
+        text-deciration: none;
+        font-size: 18px;
+        Padding: 15px 30px;
+        margin-top: 50px;
+        border-radius: 5px;
+    }
+    .card-img {
+    border: 10px solid #f0e088;
+    }
+    .main section img {
+         box-sizing: border-box 
+         box-shadow: #e69898;
+    }
+
     #background {
     height : 725px;
     }
@@ -97,12 +128,26 @@ main section {
     max-width : 1600px;
     margin : 0 auto;
     text-align : center;
+    font-size: 22px;
+    }
+body {
+    background-color:#fcfbfb;
+    font-family: Lucida, Arial, Sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    }
+    h2 {
+        margin: 0;
     }
 #footer p a:hover {
     text-decoration : underline;
     }
 footer {
     background-color : rgb(20, 30, 13, 0.7);
+    padding: 25px 50px;
+    padding-top: 15px;
+    margin-top: 200px;
     }
 #contact {
     display : flex;
