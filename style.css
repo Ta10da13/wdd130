@@ -15,6 +15,7 @@ body {
     display : flex;
     align-items : baseline;
     }
+<<<<<<< HEAD
     
     .home-title {
         font-family: Lucida, Courier, Times;
@@ -25,6 +26,17 @@ body {
     height : 50px;
     width : 80px;
     padding-top: 5px;
+=======
+    .home-title {
+        font-family: Lucida, Courier, Times;
+        font-size: 2em 
+        margin-top: 10px;
+}
+    .logo img {
+    height : 50px;
+    width : 80px;
+    padding: 5px;
+>>>>>>> 36868ef32d23b79297db9b86475b5d7f2857455e
     }
     nav ul {
     display : flex;
@@ -80,6 +92,28 @@ body {
     margin : 0 auto;
     max-width : 1600px;
     }
+<<<<<<< HEAD
+=======
+    h1, h2, h3, h4, h5 {
+        font-family: monospace;
+    }
+
+    
+    .home-title {
+        font-family: Lucida, Courier, Times;
+        font-size: 2em 
+        margin-top: 10px;
+    } 
+    .msg {
+        background-color: #6f7364;
+        line-height: 1.5em;
+    }   
+    .hero-box {
+     text-align : center;
+     margin : 0 auto;
+     max-width : 1600px;
+    }
+>>>>>>> 36868ef32d23b79297db9b86475b5d7f2857455e
     .button-box {
     text-align : center;
     }
@@ -103,6 +137,7 @@ main section {
     .book, .join {
         background-color: #e6c69d;
         color: rgb(0, 0, 0);
+<<<<<<< HEAD
         text-decoration: none;
         font-size: 18px;
         padding: 15px 30px;
@@ -117,6 +152,22 @@ main section {
         box-shadow: #e69898;
     }
     
+=======
+        text-deciration: none;
+        font-size: 18px;
+        Padding: 15px 30px;
+        margin-top: 50px;
+        border-radius: 5px;
+    }
+    .card-img {
+    border: 10px solid #f0e088;
+    }
+    .main section img {
+         box-sizing: border-box 
+         box-shadow: #e69898;
+    }
+
+>>>>>>> 36868ef32d23b79297db9b86475b5d7f2857455e
     #background {
     height : 725px;
     }
@@ -129,11 +180,25 @@ main section {
     text-decoration : none;
     padding: 35px;
     }
+
 #body {
     max-width : 1600px;
     margin : 0 auto;
     text-align : center;
     font-size: 22px;
+<<<<<<< HEAD
+=======
+    }
+body {
+    background-color:#fcfbfb;
+    font-family: Lucida, Arial, Sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    }
+    h2 {
+        margin: 0;
+>>>>>>> 36868ef32d23b79297db9b86475b5d7f2857455e
     }
 body {
     background-color: #fcfbfb;
@@ -149,7 +214,11 @@ h2 {
     text-decoration : underline;
     }
 footer {
+<<<<<<< HEAD
     background-color : rgba(255, 246, 196, 0.7);
+=======
+    background-color : rgb(20, 30, 13, 0.7);
+>>>>>>> 36868ef32d23b79297db9b86475b5d7f2857455e
     padding: 25px 50px;
     padding-top: 15px;
     margin-top: 200px;
