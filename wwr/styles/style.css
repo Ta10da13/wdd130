@@ -193,6 +193,7 @@ main section {
     .icon {
     width : 80px;
     }
+    
     nav a {
     text-align : center;
     color : #fae154;
@@ -222,7 +223,7 @@ h2 {
 #footer p a:hover {
     text-decoration : underline;
     }
-    
+
 footer {
     background-color : rgba(255, 246, 196, 0.7);
     padding: 25px 50px;
@@ -232,6 +233,7 @@ footer {
     justify-content: space-around;
     align-items: center;
     }
+
     .msg {
         box-sizing: 5px 5px 10px;
         width: 30%;
@@ -301,6 +303,7 @@ footer {
             margin-top: 25px;
         }
     }
+    
 #contact {
     display : flex;
     align-items : start;
