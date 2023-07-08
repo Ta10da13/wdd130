@@ -6,6 +6,7 @@ body {
     
     header {
     background-color : rgba(105, 168, 250, 0.918);
+    max-width: 1600px auto;
     display: grid;
     grid-template-columns: 80px auto;
     }
