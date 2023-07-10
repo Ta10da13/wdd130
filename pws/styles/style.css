@@ -227,6 +227,7 @@ body {
         color: rgb(0, 0, 0);
         font-size: 6em;
         font-weight: bolder;
+        margin-left: 850px;
     }
     h1, h2, h3, h4, h5 {
         font-family: monospace; 
@@ -243,7 +244,7 @@ body {
         font-family: Lucida, Courier, Times;
         font-size: 4em;
         margin-top: 130px;
-        margin-left: 350px;
+        margin-left: 650px;
     }
     .msg {
         background-color: #6f7364;
