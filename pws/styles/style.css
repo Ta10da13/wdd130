@@ -25,6 +25,7 @@ body {
         padding-top: 5px;
         justify-self: center;
         align-self: center;
+        border-radius: 22px;
     }
     header {
     display : grid;
@@ -32,6 +33,118 @@ body {
     grid-template-columns: 200px auto;
     padding-left: 100px;
     }
+    .btn {
+        border: 1px solid black;
+        background-color: white;
+        color: black;
+        padding: 14px 28px;
+        font-size: 34px;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        cursor: pointer;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+      }
+      
+      /* Green */
+      .home {
+        border-color: #04AA6D;
+        color: green;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+        width: 300px;
+      }
+      
+      .home:hover {
+        background-color: #04AA6D;
+        color: white;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+      }
+      
+      /* Blue */
+      .textbooks {
+        border-color: #2196F3;
+        color: dodgerblue;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+        width: 300px;
+      }
+      
+      .textbooks:hover {
+        background: #2196F3;
+        color: white;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+      }
+      
+      /* Orange */
+      .site-plan {
+        border-color: #ff9800;
+        color: orange;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+        width: 300px;
+      }
+      
+      .site-plan:hover {
+        background: #ff9800;
+        color: white;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+      }
+      
+      /* Red */
+      .funiture {
+        border-color: #f44336;
+        color: red;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+        width: 300px;
+      }
+     
+      .furniture:hover {
+        background: #f44336;
+        color: white;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+      }
+      
+      /* Gray */
+      .contact-us {
+        border-color: #ee0cbd;
+        color: rgb(193, 14, 209);
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+        width: 300px;
+      }
+      
+      .contact-us:hover {
+        background: #ffffff;
+        border-radius: 22px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+      }
+
+      .btn {
+        border-radius: 5px;
+        transition-duration: 0.3s;
+        padding: 12px 28px;
+      }
+
     .home-title {
         font-family: Lucida, Courier, Times;
         font-size: 3em;
@@ -44,7 +157,9 @@ body {
     padding-top: 5px;
     padding-left: 50px;
     z-index: 1;
-    shape-outside: circle(200px);
+    border-radius: 22px;
+    border-radius: 15px 50px 30px;
+    padding: 20px;
     }
 
     nav {
@@ -126,8 +241,9 @@ body {
     
     .home-title {
         font-family: Lucida, Courier, Times;
-        font-size: 2em;
-        margin-top: 10px;
+        font-size: 4em;
+        margin-top: 130px;
+        margin-left: 350px;
     }
     .msg {
         background-color: #6f7364;
@@ -240,6 +356,13 @@ body {
     }
     .button-box {
     text-align : center;
+    margin-top: 300px;
+    border-radius: 22px;
+    transition-duration: 0.3s;
+    padding: 12px 28px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 300px;
+    margin-left: 450px;
     }
 main section {
     text-align : center;
